@@ -28,3 +28,6 @@
 [submodule "modules/minion"]
 	path = modules/minion
 	url = https://github.com/kohana/minion.git
+[submodule "modules/base"]
+	path = modules/base
+	url = git@github.com:Cavey/kv_base.git
